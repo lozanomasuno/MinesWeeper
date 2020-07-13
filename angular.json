@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "minasLocas"
+    }
+  },
+  "defaultProject": "minasLocas",
+  "cli": {
+    "analytics": false
+  }
 }
